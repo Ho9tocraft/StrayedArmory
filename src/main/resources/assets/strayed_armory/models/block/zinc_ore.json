@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "strayed_armory:block/ore_zinc"
+  }
+}

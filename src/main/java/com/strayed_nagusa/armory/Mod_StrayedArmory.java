@@ -1,5 +1,6 @@
 package com.strayed_nagusa.armory;
 
+import com.strayed_nagusa.armory.registries.StrayedArmoryBlocks;
 import com.strayed_nagusa.armory.registries.StrayedArmoryItems;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
@@ -15,5 +16,6 @@ public class Mod_StrayedArmory {
     public Mod_StrayedArmory() {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
         StrayedArmoryItems.register(eventBus);
+        StrayedArmoryBlocks.register(eventBus);
     }
 }
