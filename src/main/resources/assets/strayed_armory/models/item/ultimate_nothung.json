@@ -1,0 +1,6 @@
+{
+  "parent": "strayed_armory:item/stricts/big_weapon_greatsword",
+  "textures": {
+    "layer0": "strayed_armory:item/weaponary/ultimate_nothung"
+  }
+}

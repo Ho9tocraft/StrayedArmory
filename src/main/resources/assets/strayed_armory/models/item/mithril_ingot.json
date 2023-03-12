@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "strayed_armory:item/ingot_mithril"
+  }
+}

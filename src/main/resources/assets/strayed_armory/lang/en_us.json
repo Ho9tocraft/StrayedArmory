@@ -1,13 +1,24 @@
 {
+  "__comment_ItemGroups__": "Item Groups",
   "itemGroup.sa_materials": "Strayed Armory Materials",
   "itemGroup.sa_ores": "Strayed Armory Ores",
+  "itemGroup.sa_weapons": "Strayed Armory Weapons",
 
+  "__comment_Materials__": "Materials",
   "item.strayed_armory.copper_ingot": "Copper Ingot",
   "item.strayed_armory.tin_ingot": "Tin Ingot",
   "item.strayed_armory.bronze_ingot": "Bronze Ingot",
   "item.strayed_armory.zinc_ingot": "Zinc Ingot",
+  "item.strayed_armory.mithril_ingot": "Mithril Ingot",
 
+  "__comment_Weapons__": "Weapons",
+  "item.strayed_armory.ultimate_nothung": "Ultimate Nothung",
+
+  "__comment_Ores__": "Ores",
   "block.strayed_armory.copper_ore": "Copper Ore",
   "block.strayed_armory.tin_ore": "Tin Ore",
-  "block.strayed_armory.zinc_ore": "Zinc Ore"
+  "block.strayed_armory.zinc_ore": "Zinc Ore",
+
+  "__comment_MetalBlocks__": "Metal Blocks",
+  "block.strayed_armory.copper_block": "Block of Copper"
 }
